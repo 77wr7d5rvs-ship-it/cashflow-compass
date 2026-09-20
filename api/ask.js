@@ -52,7 +52,10 @@ export default async function handler(req, res) {
     const data = await response.json();
     if (!response.ok) {
       console.error('OpenAI request failed', response.status, data.error?.code || 'unknown');
-      return res.status(502).json({ error: response.status === 401 ? 'The tutor API key is invalid. The site owner needs to update it in Vercel.' : 'The tutor could not answer right now. Please try again shortly.' });
+      if (data.error?.code === 'credit_balance_exhausted') return res.status(503).json({ error: 'The tutor is connected, but its OpenAI API account has no credits. The site owner needs to add API credits before AI answers can work.' });
+      if (response.status === 401) return res.status(502).json({ error: 'The tutor API key is invalid. The site owner needs to update it in Vercel.' });
+      if (response.status === 429) return res.status(429).json({ error: 'The tutor is temporarily rate-limited. Please try again shortly.' });
+      return res.status(502).json({ error: 'The tutor could not answer right now. Please try again shortly.' });
     }
     const answer = (data.output || []).filter(item => item.type === 'message')
       .flatMap(item => item.content || []).filter(item => item.type === 'output_text')
