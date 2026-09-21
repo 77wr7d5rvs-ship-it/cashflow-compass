@@ -44,7 +44,10 @@
         "Contract INV-26012",
         "CRM C-001"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D002",
@@ -57,7 +60,10 @@
         "Contract INV-26031",
         "CRM C-002"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D003",
@@ -70,7 +76,10 @@
         "Contract INV-26047",
         "CRM C-003"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D004",
@@ -83,7 +92,10 @@
         "Contract INV-26063",
         "CRM C-004"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D005",
@@ -94,7 +106,10 @@
       "evidence": [
         "Bank RCPT-001"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D006",
@@ -106,7 +121,10 @@
         "Bank PLAT-FSB",
         "CRM WEB-FSB"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D007",
@@ -119,7 +137,10 @@
         "CRM WEB-NCB",
         "Return R-17"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D008",
@@ -131,7 +152,10 @@
         "Bank DEP-NB",
         "Contract NB-SEP"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D009",
@@ -143,7 +167,10 @@
         "Bank DEP-FF2",
         "Contract FF-SEP"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D010",
@@ -155,7 +182,10 @@
         "Bank SUP-BOX",
         "BoxWorks invoice"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D011",
@@ -167,7 +197,10 @@
         "Bank SUP-GLS",
         "Glass & Drama invoice"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D012",
@@ -179,7 +212,10 @@
         "Bank SUP-PRT",
         "Print Again invoice"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D013",
@@ -191,7 +227,10 @@
         "Bank SUP-EVT",
         "Event Things invoice"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D014",
@@ -203,7 +242,10 @@
         "Bank PAYROLL",
         "Payroll workbook"
       ],
-      "confidence": "medium"
+      "confidence": "medium",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D015",
@@ -215,7 +257,10 @@
         "Bank PAYROLL",
         "Payroll workbook"
       ],
-      "confidence": "medium"
+      "confidence": "medium",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D016",
@@ -227,7 +272,10 @@
         "Bank PAYROLL",
         "Payroll workbook"
       ],
-      "confidence": "medium"
+      "confidence": "medium",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D017",
@@ -239,7 +287,10 @@
         "Bank PAYROLL",
         "Payroll workbook"
       ],
-      "confidence": "medium"
+      "confidence": "medium",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D018",
@@ -251,7 +302,10 @@
         "Bank PAYROLL",
         "Payroll workbook"
       ],
-      "confidence": "medium"
+      "confidence": "medium",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D019",
@@ -263,7 +317,10 @@
         "Bank PAYROLL",
         "Payroll workbook"
       ],
-      "confidence": "medium"
+      "confidence": "medium",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D020",
@@ -275,7 +332,10 @@
         "Bank PAYROLL",
         "Payroll workbook"
       ],
-      "confidence": "medium"
+      "confidence": "medium",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D021",
@@ -287,7 +347,10 @@
         "Bank PAYROLL",
         "Payroll workbook"
       ],
-      "confidence": "medium"
+      "confidence": "medium",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D022",
@@ -298,7 +361,10 @@
       "evidence": [
         "Bank RENT"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D023",
@@ -309,7 +375,10 @@
       "evidence": [
         "Bank MKT"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D024",
@@ -320,7 +389,10 @@
       "evidence": [
         "Bank SOFT"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D025",
@@ -331,7 +403,10 @@
       "evidence": [
         "Bank UTIL"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D026",
@@ -343,7 +418,10 @@
         "Bank REPAIR",
         "Repair invoice R-771"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D027",
@@ -355,7 +433,10 @@
         "Bank CAPEX-PACK",
         "Invoice A-910"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D028",
@@ -367,7 +448,10 @@
         "Bank CAPEX-PHOTO",
         "Invoice P-404"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D029",
@@ -379,7 +463,10 @@
         "Bank LOAN-ADV",
         "Signed loan agreement"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D030",
@@ -391,7 +478,10 @@
         "Bank PRINCIPAL",
         "Loan confirmation"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D031",
@@ -404,7 +494,10 @@
         "Loan schedule",
         "Bank confirmation"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D032",
@@ -416,7 +509,10 @@
         "Bank VILLA",
         "Owner-card evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D033",
@@ -428,7 +524,10 @@
         "Bank OWNERCARD",
         "Owner-card evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D034",
@@ -439,7 +538,10 @@
       "evidence": [
         "Complete evidence inventory"
       ],
-      "confidence": "low"
+      "confidence": "low",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D035",
@@ -451,7 +553,10 @@
         "Warehouse count",
         "Independent stock assessment"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D036",
@@ -463,7 +568,10 @@
         "Return R-17",
         "Liquidator notice"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D037",
@@ -475,7 +583,10 @@
         "External counsel letter",
         "Post-takeover confirmation"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D038",
@@ -486,7 +597,10 @@
       "evidence": [
         "Supplier invoices and goods-received stamps"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D039",
@@ -499,7 +613,10 @@
         "CRM",
         "Contracts"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D040",
@@ -511,7 +628,10 @@
         "Bank export",
         "Bank confirmation"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Bank Export August.csv, matching transaction reference; related contract/CRM row where applicable",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D041",
@@ -526,8 +646,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Record €90,000 September customer deposits as contract liabilities; no August revenue.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Record €90,000 September customer deposits as contract liabilities; no August revenue.",
+      "independentChallenge": "Cash receipt could suggest revenue, but both contracts schedule delivery after 31 August; test for any pre-period delivery evidence before retaining the liability.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Record €90,000 September customer deposits as contract liabilities; no August revenue.",
       "statementEffect": {
         "profit": -90000,
         "cash": 0,
@@ -535,7 +655,9 @@
         "liabilities": 90000,
         "equity": -90000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D042",
@@ -550,8 +672,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Record the €50,000 bank advance as borrowing, not income.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Record the €50,000 bank advance as borrowing, not income.",
+      "independentChallenge": "Management called the advance income; verify whether any lender concession removed repayment. The signed agreement and bank confirmation instead show an enforceable loan.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Record the €50,000 bank advance as borrowing, not income.",
       "statementEffect": {
         "profit": -50000,
         "cash": 0,
@@ -559,7 +681,9 @@
         "liabilities": 50000,
         "equity": -50000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D043",
@@ -574,8 +698,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Capitalize the €60,000 packaging machine as PPE.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Capitalize the €60,000 packaging machine as PPE.",
+      "independentChallenge": "Challenge capitalization if the machine was not available for use. Invoice A-910 states installation and availability on 10 May, supporting PPE treatment.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Capitalize the €60,000 packaging machine as PPE.",
       "statementEffect": {
         "profit": 60000,
         "cash": 0,
@@ -583,7 +707,9 @@
         "liabilities": 0,
         "equity": 60000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D044",
@@ -598,8 +724,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Capitalize the €20,000 photo booth as PPE.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Capitalize the €20,000 photo booth as PPE.",
+      "independentChallenge": "Challenge whether a photo booth is merely marketing material. Invoice P-404 and multi-period availability support a controlled long-term asset.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Capitalize the €20,000 photo booth as PPE.",
       "statementEffect": {
         "profit": 20000,
         "cash": 0,
@@ -607,7 +733,9 @@
         "liabilities": 0,
         "equity": 20000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D045",
@@ -622,8 +750,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Expense the €10,000 belt, cleaning and calibration as repair and maintenance.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Expense the €10,000 belt, cleaning and calibration as repair and maintenance.",
+      "independentChallenge": "A replaced belt might appear to improve equipment; invoice R-771 says it only restored normal output and did not extend useful life or capacity.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Expense the €10,000 belt, cleaning and calibration as repair and maintenance.",
       "statementEffect": {
         "profit": -10000,
         "cash": 0,
@@ -631,7 +759,9 @@
         "liabilities": 0,
         "equity": -10000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D046",
@@ -646,8 +776,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Record the €70,000 villa payment as an owner distribution.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Record the €70,000 villa payment as an owner distribution.",
+      "independentChallenge": "Management suggested marketing or a bonus. The villa is in the founder's personal name and no customer meeting occurred, so neither treatment is supported.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Record the €70,000 villa payment as an owner distribution.",
       "statementEffect": {
         "profit": 70000,
         "cash": 0,
@@ -655,7 +785,9 @@
         "liabilities": 0,
         "equity": 0
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D047",
@@ -670,8 +802,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Record €40,000 of other owner-card spending as an owner distribution.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Record €40,000 of other owner-card spending as an owner distribution.",
+      "independentChallenge": "Test for receipts or approved business purpose for the €40,000 owner-card spend. None is supplied, so distribution is the most supportable treatment.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Record €40,000 of other owner-card spending as an owner distribution.",
       "statementEffect": {
         "profit": 40000,
         "cash": 0,
@@ -679,7 +811,9 @@
         "liabilities": 0,
         "equity": 0
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D048",
@@ -694,8 +828,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Recognize €405,000 of physical-product materials consumed in cost of sales.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Recognize €405,000 of physical-product materials consumed in cost of sales.",
+      "independentChallenge": "The warehouse count implies €396,000 consumption before the damaged-stock write-off, while the operations note states €405,000; this creates the €9,000 inventory conflict.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Recognize €405,000 of physical-product materials consumed in cost of sales.",
       "statementEffect": {
         "profit": -405000,
         "cash": 0,
@@ -703,7 +837,9 @@
         "liabilities": 0,
         "equity": -405000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D049",
@@ -718,8 +854,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Classify €80,000 event-delivery payroll as service cost of sales.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Classify €80,000 event-delivery payroll as service cost of sales.",
+      "independentChallenge": "Event staff were labeled administration. Their work is directly tied to paid events, but classification changes gross margin rather than total profit.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Classify €80,000 event-delivery payroll as service cost of sales.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
@@ -727,7 +863,9 @@
         "liabilities": 0,
         "equity": 0
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D050",
@@ -740,7 +878,10 @@
         "Contracts/CRM",
         "Supporting schedules"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D051",
@@ -753,7 +894,10 @@
         "Contracts/CRM",
         "Supporting schedules"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D052",
@@ -766,7 +910,10 @@
         "Contracts/CRM",
         "Supporting schedules"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D053",
@@ -779,7 +926,10 @@
         "Contracts/CRM",
         "Supporting schedules"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D054",
@@ -792,7 +942,10 @@
         "Contracts/CRM",
         "Supporting schedules"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D055",
@@ -805,7 +958,10 @@
         "Contracts/CRM",
         "Supporting schedules"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D056",
@@ -820,8 +976,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Recognize €24,000 depreciation expense and increase accumulated depreciation.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Recognize €24,000 depreciation expense and increase accumulated depreciation.",
+      "independentChallenge": "The €24,000 is an independent estimate rather than an asset-by-asset schedule. Verify useful lives and conventions before final statutory reporting.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Recognize €24,000 depreciation expense and increase accumulated depreciation.",
       "statementEffect": {
         "profit": -24000,
         "cash": 0,
@@ -829,7 +985,9 @@
         "liabilities": 0,
         "equity": -24000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D057",
@@ -844,8 +1002,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Write off the €18,000 R-17 receivable as bad-debt expense.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Write off the €18,000 R-17 receivable as bad-debt expense.",
+      "independentChallenge": "A post-period liquidation could be a non-adjusting event. The notice explicitly confirms insolvency existed at 31 August, supporting an adjusting write-off.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Write off the €18,000 R-17 receivable as bad-debt expense.",
       "statementEffect": {
         "profit": -18000,
         "cash": 0,
@@ -853,7 +1011,9 @@
         "liabilities": 0,
         "equity": -18000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D058",
@@ -868,8 +1028,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Write off €22,000 of damaged stock to zero value.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Write off €22,000 of damaged stock to zero value.",
+      "independentChallenge": "Physical presence could support inventory recognition, but recoverable value is zero because the goods are wet and unsaleable; existence is not value.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Write off €22,000 of damaged stock to zero value.",
       "statementEffect": {
         "profit": -22000,
         "cash": 0,
@@ -877,7 +1037,9 @@
         "liabilities": 0,
         "equity": -22000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D059",
@@ -892,8 +1054,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Recognize a €25,000 legal expense and provision.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Recognize a €25,000 legal expense and provision.",
+      "independentChallenge": "A claim range alone is insufficient unless obligation and probability existed at reporting date. Counsel confirms both and provides a €25,000 best estimate.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Recognize a €25,000 legal expense and provision.",
       "statementEffect": {
         "profit": -25000,
         "cash": 0,
@@ -901,7 +1063,9 @@
         "liabilities": 25000,
         "equity": -25000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D060",
@@ -914,7 +1078,10 @@
         "Contracts/CRM",
         "Supporting schedules"
       ],
-      "confidence": "low"
+      "confidence": "low",
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D061",
@@ -927,7 +1094,10 @@
         "Contracts/CRM",
         "Supporting schedules"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D062",
@@ -940,7 +1110,10 @@
         "Contracts/CRM",
         "Supporting schedules"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D063",
@@ -953,7 +1126,10 @@
         "Contracts/CRM",
         "Supporting schedules"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D064",
@@ -968,8 +1144,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Recognize €180,000 NorthStar revenue because delivery and acceptance occurred on 12 February.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Recognize €180,000 NorthStar revenue because delivery and acceptance occurred on 12 February.",
+      "independentChallenge": "Cash collection alone does not prove revenue. Signed acceptance on 12 February independently confirms delivery and recognition.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Recognize €180,000 NorthStar revenue because delivery and acceptance occurred on 12 February.",
       "statementEffect": {
         "profit": 180000,
         "cash": 180000,
@@ -977,7 +1153,9 @@
         "liabilities": 0,
         "equity": 180000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D065",
@@ -992,8 +1170,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Recognize €200,000 Freedom revenue because delivery and acceptance occurred on 18 March.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Recognize €200,000 Freedom revenue because delivery and acceptance occurred on 18 March.",
+      "independentChallenge": "Partial collection might suggest partial performance, but the contract records full acceptance; recognize €200,000 and retain €58,000 receivable.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Recognize €200,000 Freedom revenue because delivery and acceptance occurred on 18 March.",
       "statementEffect": {
         "profit": 200000,
         "cash": 142000,
@@ -1001,7 +1179,9 @@
         "liabilities": 0,
         "equity": 200000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D066",
@@ -1016,8 +1196,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Recognize €100,000 Phoenix event revenue because the event was completed and accepted on 29 April.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Recognize €100,000 Phoenix event revenue because the event was completed and accepted on 29 April.",
+      "independentChallenge": "Customer acceptance is by email rather than a signed page. It still corroborates completion on 29 April, though documentation quality is weaker.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Recognize €100,000 Phoenix event revenue because the event was completed and accepted on 29 April.",
       "statementEffect": {
         "profit": 100000,
         "cash": 70000,
@@ -1025,7 +1205,9 @@
         "liabilities": 0,
         "equity": 100000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D067",
@@ -1040,8 +1222,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Recognize €120,000 Liberty revenue because the mixed order was delivered and accepted on 20 June.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Recognize €120,000 Liberty revenue because the mixed order was delivered and accepted on 20 June.",
+      "independentChallenge": "The complaint about excessive glitter could imply a return. The customer explicitly accepted the order in full, so full revenue remains supportable.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Recognize €120,000 Liberty revenue because the mixed order was delivered and accepted on 20 June.",
       "statementEffect": {
         "profit": 120000,
         "cash": 95000,
@@ -1049,7 +1231,9 @@
         "liabilities": 0,
         "equity": 120000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D068",
@@ -1064,8 +1248,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Do not recognize €90,000 of September events by 31 August; retain contract liabilities.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Do not recognize €90,000 of September events by 31 August; retain contract liabilities.",
+      "independentChallenge": "Management argued September was effectively current. No goods or services were delivered by 31 August, so cash must remain a liability.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Do not recognize €90,000 of September events by 31 August; retain contract liabilities.",
       "statementEffect": {
         "profit": 0,
         "cash": 90000,
@@ -1073,7 +1257,9 @@
         "liabilities": 90000,
         "equity": 0
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D069",
@@ -1086,7 +1272,10 @@
         "Contracts/CRM",
         "Supporting schedules"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D070",
@@ -1099,7 +1288,10 @@
         "Contracts/CRM",
         "Supporting schedules"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Relevant case file cited in the answer; Finance Reference pp. 1-2",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D071",
@@ -1113,8 +1305,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Closing bad-debt write-off is €18,000, based on the liquidator notice confirming no recovery.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Closing bad-debt write-off is €18,000, based on the liquidator notice confirming no recovery.",
+      "independentChallenge": "Consider an allowance instead of a write-off. The liquidator expects no distribution, making a full €18,000 write-off the clearest treatment.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Closing bad-debt write-off is €18,000, based on the liquidator notice confirming no recovery.",
       "statementEffect": {
         "profit": -18000,
         "cash": 0,
@@ -1122,7 +1314,9 @@
         "liabilities": 0,
         "equity": -18000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D072",
@@ -1136,8 +1330,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Damaged inventory write-off is €22,000; carrying value is reduced to zero.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Damaged inventory write-off is €22,000; carrying value is reduced to zero.",
+      "independentChallenge": "The €2,000 disposal quote could increase the loss to €24,000. It is excluded because the evidence does not establish a present disposal obligation at 31 August.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Damaged inventory write-off is €22,000; carrying value is reduced to zero.",
       "statementEffect": {
         "profit": -22000,
         "cash": 0,
@@ -1145,7 +1339,9 @@
         "liabilities": 0,
         "equity": -22000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D073",
@@ -1159,8 +1355,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Legal provision is €25,000, counsel's best estimate within a €20,000-€30,000 range.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Legal provision is €25,000, counsel's best estimate within a €20,000-€30,000 range.",
+      "independentChallenge": "A midpoint could be used instead of €25,000. Counsel provides €25,000 as the specific best estimate, so it is preferable to a mechanical midpoint.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Legal provision is €25,000, counsel's best estimate within a €20,000-€30,000 range.",
       "statementEffect": {
         "profit": -25000,
         "cash": 0,
@@ -1168,7 +1364,9 @@
         "liabilities": 25000,
         "equity": -25000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D074",
@@ -1182,8 +1380,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Period depreciation is €24,000 based on the independent asset schedule.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Period depreciation is €24,000 based on the independent asset schedule.",
+      "independentChallenge": "The supplied €24,000 estimate lacks useful-life detail. It is used provisionally because it is the only independent period estimate, with verification flagged.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Period depreciation is €24,000 based on the independent asset schedule.",
       "statementEffect": {
         "profit": -24000,
         "cash": 0,
@@ -1191,7 +1389,9 @@
         "liabilities": 0,
         "equity": -24000
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D075",
@@ -1206,7 +1406,7 @@
       "confidence": "low",
       "aiProposal": "Closing inventory is €112,000 by roll-forward: €80,000 + €459,000 - €405,000 - €22,000.",
       "independentChallenge": "The warehouse count shows €121,000 of saleable stock, €9,000 above the roll-forward result; either consumption or count records contain an unresolved difference.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Closing inventory is €112,000 by roll-forward: €80,000 + €459,000 - €405,000 - €22,000.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Closing inventory is €112,000 by roll-forward: €80,000 + €459,000 - €405,000 - €22,000.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
@@ -1214,7 +1414,9 @@
         "liabilities": 0,
         "equity": 0
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D076",
@@ -1226,7 +1428,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D077",
@@ -1238,7 +1443,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D078",
@@ -1250,7 +1458,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "low"
+      "confidence": "low",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D079",
@@ -1262,7 +1473,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D080",
@@ -1274,7 +1488,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D081",
@@ -1286,7 +1503,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D082",
@@ -1298,7 +1518,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D083",
@@ -1310,7 +1533,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D084",
@@ -1322,7 +1548,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D085",
@@ -1334,7 +1563,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D086",
@@ -1346,7 +1578,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D087",
@@ -1358,7 +1593,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D088",
@@ -1370,7 +1608,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D089",
@@ -1382,7 +1623,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D090",
@@ -1394,7 +1638,10 @@
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D091",
@@ -1408,8 +1655,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Approve the corrected accounts before any valuation or earn-out calculation.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Approve the corrected accounts before any valuation or earn-out calculation.",
+      "independentChallenge": "Accounts could be approved with a qualification, but valuation and earn-out sensitivity to the corrections makes prior correction and board approval necessary.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Approve the corrected accounts before any valuation or earn-out calculation.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
@@ -1417,7 +1664,9 @@
         "liabilities": 0,
         "equity": 0
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Corrected statements, reconciliations and uncertainty register in submission.json",
+      "certificationStatus": "student_review_required"
     },
     {
       "id": "D092",
@@ -1429,7 +1678,10 @@
         "Corrected statements",
         "Risk and control findings"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Corrected statements, reconciliations and uncertainty register in submission.json",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D093",
@@ -1441,7 +1693,10 @@
         "Corrected statements",
         "Risk and control findings"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Corrected statements, reconciliations and uncertainty register in submission.json",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D094",
@@ -1453,7 +1708,10 @@
         "Corrected statements",
         "Risk and control findings"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Corrected statements, reconciliations and uncertainty register in submission.json",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D095",
@@ -1465,7 +1723,10 @@
         "Corrected statements",
         "Risk and control findings"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Corrected statements, reconciliations and uncertainty register in submission.json",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D096",
@@ -1477,7 +1738,10 @@
         "Corrected statements",
         "Risk and control findings"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Corrected statements, reconciliations and uncertainty register in submission.json",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D097",
@@ -1489,7 +1753,10 @@
         "Corrected statements",
         "Risk and control findings"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Corrected statements, reconciliations and uncertainty register in submission.json",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D098",
@@ -1501,7 +1768,10 @@
         "Corrected statements",
         "Risk and control findings"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Corrected statements, reconciliations and uncertainty register in submission.json",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D099",
@@ -1513,7 +1783,10 @@
         "Corrected statements",
         "Risk and control findings"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "sourceLocator": "Corrected statements, reconciliations and uncertainty register in submission.json",
+      "studentReasoning": "",
+      "certificationStatus": "analyst_prepared"
     },
     {
       "id": "D100",
@@ -1527,8 +1800,8 @@
       ],
       "confidence": "high",
       "aiProposal": "Do not use the claimed €312,000 management profit for the earn-out; use corrected, verified accounts.",
-      "independentChallenge": "Test the opposite treatment and require the strongest external evidence; do not rely on management labels or cash timing alone.",
-      "studentReasoning": "Certified after tracing the item to the strongest available evidence and applying accrual accounting. Do not use the claimed €312,000 management profit for the earn-out; use corrected, verified accounts.",
+      "independentChallenge": "A negotiated earn-out might use management EBITDA, but the €312,000 figure includes non-revenue cash and omits material costs; it is not decision-useful.",
+      "studentReasoning": "Prepared for student certification after tracing the item to the strongest available evidence and applying accrual accounting. Do not use the claimed €312,000 management profit for the earn-out; use corrected, verified accounts.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
@@ -1536,10 +1809,20 @@
         "liabilities": 0,
         "equity": 0
       },
-      "changedFromAI": false
+      "changedFromAI": false,
+      "sourceLocator": "Corrected statements, reconciliations and uncertainty register in submission.json",
+      "certificationStatus": "student_review_required"
     }
   ],
   "schedules": {
+    "managementProfitBridge": {
+      "managementClaim": 312000,
+      "removeSeptemberDeposits": -90000,
+      "removeLoanIncome": -50000,
+      "omittedDepreciationBadDebtDamageLegalAndInterest": -101000,
+      "netOtherCostCorrections": -6000,
+      "correctedNetProfit": 65000
+    },
     "revenueReceivables": {
       "openingReceivables": 35000,
       "recognizedRevenue": 960000,
@@ -1585,7 +1868,9 @@
       "openingAccumulatedDepreciation": 45000,
       "depreciation": 24000,
       "closingAccumulatedDepreciation": 69000,
-      "netPpe": 191000
+      "netPpe": 191000,
+      "depreciationBasis": "Independent schedule estimate; useful lives and convention were not supplied.",
+      "verificationNeeded": "Obtain the fixed-asset register and asset-level useful lives before statutory filing."
     },
     "debtInterest": {
       "openingLoan": 100000,
@@ -1775,5 +2060,10 @@
       "Investigate management override and source conflicts.",
       "Renegotiate supplier terms."
     ]
+  },
+  "verificationStatus": {
+    "status": "Prepared for student review",
+    "studentCertificationRequired": true,
+    "note": "The student must personally review the 25 material judgments and certify that the published reasoning reflects their own understanding before submission."
   }
 }
