@@ -1,6 +1,6 @@
 const euro=n=>new Intl.NumberFormat('en-IE',{style:'currency',currency:'EUR',maximumFractionDigits:0}).format(n);
 async function getData(){return fetch('/submission.json').then(r=>{if(!r.ok)throw new Error('Submission data unavailable');return r.json()})}
-function label(k){return k.replace(/([A-Z])/g,' $1').replace(/^./,s=>s.toUpperCase())}
+function label(k){if(k==='correctedNetProfit')return 'Provisional net profit';return k.replace(/([A-Z])/g,' $1').replace(/^./,s=>s.toUpperCase())}
 function moneyTone(k,v,mode='schedule'){if(v<0)return 'bad';if(mode==='flow')return v>0?'good':'';if(mode==='liabilities')return /closingEquity|totalLiabilitiesAndEquity/i.test(k)?'':'bad';if(mode==='assets')return '';if(/revenue|collections|profit|newBorrowing|customerCash/i.test(k))return 'good';if(/expense|cost|cogs|paid|purchase|writeOff|depreciation|distribution|repaid|payable|loan|liabilit/i.test(k))return 'bad';return ''}
 function rows(obj,mode='schedule'){return Object.entries(obj).filter(([,v])=>typeof v==='number').map(([k,v])=>`<tr class="${/total|grossProfit|netProfit|operatingProfit|closingCash|netChange/i.test(k)?'total':''}"><td>${label(k)}</td><td class="num ${moneyTone(k,v,mode)}">${euro(v)}</td></tr>`).join('')}
 async function renderMain(){const d=await getData(),s=d.statements;
