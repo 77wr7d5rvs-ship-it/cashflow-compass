@@ -534,7 +534,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Insurance movement.",
-      "answer": "No insurance movement is recognized: €0 expense and €0 prepaid asset because no policy, payment or opening balance exists in the complete evidence set.",
+      "answer": "No insurance amount is recognized in the provisional statements because no policy, payment or opening balance was supplied. The missing evidence leaves the insurance amount unquantified; it does not prove the true amount is zero.",
       "evidence": [
         "Complete evidence inventory"
       ],
@@ -1072,7 +1072,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Insurance consumed.",
-      "answer": "Classify insurance consumed as €0 for the reporting period; no evidenced insurance asset or expense exists.",
+      "answer": "No insurance expense is recorded in the provisional statements because the source evidence is missing. Insurance consumed remains unquantified and must be obtained before valuation.",
       "evidence": [
         "Bank export",
         "Contracts/CRM",
@@ -1398,15 +1398,15 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Closing inventory and document the basis.",
-      "answer": "Closing inventory is €112,000 from the roll forward. The €9,000 count difference is treated as a counting variance, not extra stock.",
+      "answer": "Use €112,000 provisionally from the documented roll-forward, but disclose the €121,000 physical-count alternative. The €9,000 difference is unresolved because the source does not prove which record is wrong.",
       "evidence": [
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
       "confidence": "medium",
-      "aiProposal": "Closing inventory is €112,000 from the roll forward. The €9,000 count difference is treated as a counting variance, not extra stock.",
-      "independentChallenge": "The count says €121,000, but the supported roll forward says €112,000. I used €112,000 and treated €9,000 as count variance.",
-      "studentReasoning": "I checked the case evidence and the accounting effect. Closing inventory is €112,000 from the roll forward. The €9,000 count difference is treated as a counting variance, not extra stock.",
+      "aiProposal": "Use €112,000 provisionally from the documented roll-forward and disclose the €121,000 physical-count alternative.",
+      "independentChallenge": "The count says €121,000 and the roll-forward says €112,000. Neither source proves the other is wrong, so the €9,000 difference remains an open uncertainty.",
+      "studentReasoning": "I selected €112,000 provisionally because the roll-forward uses documented opening inventory, purchases, consumption and write-off. I also disclose €121,000 as the alternative and do not label either record as erroneous without SKU-level evidence.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
@@ -1453,7 +1453,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Insurance expense and document the basis.",
-      "answer": "Insurance expense is €0 based on the complete evidence set.",
+      "answer": "No insurance expense is recorded in the provisional statements, but the amount is unquantified because no policy, invoice, payment or opening prepaid balance was supplied. This is a valuation limitation, not proof of a zero expense.",
       "evidence": [
         "Supporting schedule",
         "Third-party or operational evidence"
@@ -1618,12 +1618,12 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Net profit and document the basis.",
-      "answer": "Corrected net profit is €65,000.",
+      "answer": "Provisional net profit is €65,000 on the selected €112,000 inventory basis. The validated €121,000 inventory alternative would produce €74,000, before any currently unquantified insurance adjustment.",
       "evidence": [
         "Supporting schedule",
         "Third-party or operational evidence"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
       "studentReasoning": "",
       "certificationStatus": "final"
@@ -1648,15 +1648,15 @@
       "category": "board_decision",
       "reviewTier": "material_judgment",
       "question": "Approve corrected accounts before valuation",
-      "answer": "The corrected accounts should be approved first, before anyone values the company or works out the earn-out.",
+      "answer": "Use the corrected statements only as a provisional accounting model. Resolve the €9,000 inventory difference and obtain insurance evidence before final valuation or an earn-out calculation.",
       "evidence": [
         "Corrected statements",
         "Risk and control findings"
       ],
       "confidence": "high",
-      "aiProposal": "The corrected accounts should be approved first, before anyone values the company or works out the earn-out.",
-      "independentChallenge": "Approving with a qualification was possible, but the errors change the valuation too much, so correction should come first.",
-      "studentReasoning": "I checked the case evidence and the accounting effect. The corrected accounts should be approved first, before anyone values the company or works out the earn-out.",
+      "aiProposal": "Use the €65,000 statements as a provisional model, then resolve the inventory and insurance uncertainties before valuation or an earn-out calculation.",
+      "independentChallenge": "The model reconciles internally, but the €9,000 inventory alternative and unquantified insurance amount prevent an unqualified valuation conclusion.",
+      "studentReasoning": "I selected the €112,000 inventory roll-forward because it is supported by the documented movement schedule, while retaining the €121,000 physical-count alternative. Insurance remains unquantified because no evidence was supplied.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
@@ -1793,15 +1793,15 @@
       "category": "board_decision",
       "reviewTier": "material_judgment",
       "question": "Use claimed management profit for earn-out",
-      "answer": "I would not use the €312,000 profit for the earn-out. The corrected accounts and €65,000 profit should be used instead.",
+      "answer": "Do not use the €312,000 claim. Use €65,000 only as a provisional base, subject to the €9,000 inventory alternative and an unquantified insurance adjustment before the earn-out is finalized.",
       "evidence": [
         "Corrected statements",
         "Risk and control findings"
       ],
       "confidence": "high",
-      "aiProposal": "I would not use the €312,000 profit for the earn-out. The corrected accounts and €65,000 profit should be used instead.",
-      "independentChallenge": "A negotiated earn-out could use another measure, but €312,000 includes wrong income and misses important expenses.",
-      "studentReasoning": "I checked the case evidence and the accounting effect. I would not use the €312,000 profit for the earn-out. The corrected accounts and €65,000 profit should be used instead.",
+      "aiProposal": "Do not use the €312,000 claim. Use €65,000 only as a provisional base while the €9,000 inventory alternative and insurance evidence remain unresolved.",
+      "independentChallenge": "A negotiated earn-out could use another measure, but neither €312,000 nor the provisional €65,000 should be treated as final before the open evidence is resolved.",
+      "studentReasoning": "The €65,000 model reconciles on the selected €112,000 inventory basis. I would delay a final earn-out because €121,000 inventory would raise profit by €9,000 and insurance remains unquantified.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
@@ -1838,7 +1838,7 @@
       "damagedStockWriteOff": 22000,
       "closingInventory": 112000,
       "countIndicatedSaleableStock": 121000,
-      "resolvedCountVariance": 9000
+      "unresolvedCountDifference": 9000
     },
     "payroll": {
       "openingPayable": 15000,
@@ -1984,8 +1984,8 @@
     {
       "name": "Inventory roll-forward",
       "result": 0,
-      "status": "pass",
-      "formula": "€80,000 + €459,000 - €405,000 - €22,000 = €112,000; the €9,000 physical-count variance is not recognized as an additional asset"
+      "status": "pass with uncertainty",
+      "formula": "Selected roll-forward: €80,000 + €459,000 - €405,000 - €22,000 = €112,000. Alternative physical count: €121,000. The €9,000 difference is unresolved because the evidence does not prove which record is wrong."
     },
     {
       "name": "PPE",
@@ -2006,12 +2006,27 @@
       "formula": "€170,000 + €65,000 - €110,000 = €125,000"
     }
   ],
-  "uncertainties": [],
+  "uncertainties": [
+    {
+      "issue": "Inventory measurement",
+      "provisionalTreatment": "Use €112,000 closing inventory from the documented roll-forward, producing provisional net profit of €65,000.",
+      "alternative": "The physical count supports €121,000. If validated, inventory, profit and equity would each be €9,000 higher and provisional net profit would be €74,000.",
+      "requiredEvidence": "Recount inventory and reconcile SKU quantities, unit costs, purchases and issues to the ledger.",
+      "valuationEffect": "Open €9,000 upward alternative; neither source is proven wrong."
+    },
+    {
+      "issue": "Insurance completeness",
+      "provisionalTreatment": "Record no insurance amount in the provisional statements because no support was supplied.",
+      "alternative": "Any policy, invoice, payment or opening prepaid balance could create an expense, payable or prepaid asset.",
+      "requiredEvidence": "Obtain insurance policies, broker statements, invoices, bank payments and the opening prepaid-insurance ledger.",
+      "valuationEffect": "Unquantified limitation; the absence of evidence does not prove a zero amount."
+    }
+  ],
   "resolvedJudgments": [
     {
       "issue": "Inventory difference",
-      "decision": "Use €112,000 closing inventory.",
-      "basis": "The roll-forward using documented €405,000 consumption reconciles the full balance sheet. The €9,000 count difference is treated as an unrecorded count/measurement variance with no additional asset recognized."
+      "decision": "Use €112,000 provisionally and show €121,000 as the €9,000 alternative.",
+      "basis": "The selected basis is the roll-forward using documented opening inventory, purchases, €405,000 consumption and the €22,000 write-off. The physical count is independent conflicting evidence, so the difference remains open rather than being called a confirmed counting error."
     },
     {
       "issue": "Legal claim range",
@@ -2020,8 +2035,8 @@
     },
     {
       "issue": "Insurance",
-      "decision": "Recognize €0 insurance expense and no prepaid insurance asset.",
-      "basis": "No policy, payment or opening balance appears in the complete evidence set; the evidence-based amount is therefore zero."
+      "decision": "Record no insurance amount in the provisional statements and retain an unquantified completeness limitation.",
+      "basis": "No policy, invoice, payment or opening balance was supplied. That supports no booked adjustment in the provisional model, but it does not prove the economic amount is zero."
     },
     {
       "issue": "Monthly payroll allocation",
@@ -2040,7 +2055,7 @@
     }
   ],
   "boardRecommendation": {
-    "decision": "Continue the core business conditionally, but do not value it or calculate an earn-out from management's €312,000 profit claim.",
+    "decision": "Continue the core business conditionally. Treat €65,000 as a provisional result only, and do not finalize valuation or an earn-out until the €9,000 inventory alternative and unquantified insurance amount are resolved.",
     "correctedNetProfit": 65000,
     "closingCash": 60000,
     "causes": [
@@ -2052,7 +2067,7 @@
       "Payroll, supplier, interest and deposit liabilities were incomplete."
     ],
     "actions": [
-      "Approve corrected accounts before valuation.",
+      "Use the €65,000 statements as a provisional model; resolve the €9,000 inventory alternative and obtain insurance evidence before valuation.",
       "Freeze owner-card access and add dual approval.",
       "Start a weekly 13-week cash forecast.",
       "Tighten customer credit and collections.",
@@ -2062,8 +2077,9 @@
     ]
   },
   "verificationStatus": {
-    "status": "Complete",
-    "studentCertificationRequired": false,
-    "note": "All 100 decisions have a final treatment, amount, evidence basis and statement effect."
+    "status": "Provisional - open uncertainties",
+    "studentCertificationRequired": true,
+    "note": "The statements and cash reconciliation are internally consistent on the selected €112,000 inventory basis. Inventory and insurance remain open before valuation, and the student must submit the final link in column I."
   }
 }
+
