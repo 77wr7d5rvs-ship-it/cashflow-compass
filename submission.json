@@ -690,16 +690,16 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Packaging machine.",
-      "answer": "I would put the €60,000 packaging machine in PPE because it will be used for more then one period.",
+      "answer": "I would put the €60,000 packaging machine in PPE because it will be used for more than one period.",
       "evidence": [
         "Bank export",
         "Contracts/CRM",
         "Supporting schedules"
       ],
       "confidence": "high",
-      "aiProposal": "I would put the €60,000 packaging machine in PPE because it will be used for more then one period.",
+      "aiProposal": "I would put the €60,000 packaging machine in PPE because it will be used for more than one period.",
       "independentChallenge": "I checked if the machine was ready to use. The invoice says it was available on 10 May, so PPE makes sense.",
-      "studentReasoning": "I checked the case evidence and the accounting effect. I would put the €60,000 packaging machine in PPE because it will be used for more then one period.",
+      "studentReasoning": "I checked the case evidence and the accounting effect. I would put the €60,000 packaging machine in PPE because it will be used for more than one period.",
       "statementEffect": {
         "profit": 60000,
         "cash": 0,
@@ -742,16 +742,16 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Machine belt and calibration.",
-      "answer": "The €10,000 repair is an expense. It only made the machine work normal again and didnt improve it.",
+      "answer": "The €10,000 repair is an expense. It only restored the machine to normal operation and did not improve it.",
       "evidence": [
         "Bank export",
         "Contracts/CRM",
         "Supporting schedules"
       ],
       "confidence": "high",
-      "aiProposal": "The €10,000 repair is an expense. It only made the machine work normal again and didnt improve it.",
+      "aiProposal": "The €10,000 repair is an expense. It only restored the machine to normal operation and did not improve it.",
       "independentChallenge": "A new belt might sound like an improvement, but the invoice says it only restored normal output.",
-      "studentReasoning": "I checked the case evidence and the accounting effect. The €10,000 repair is an expense. It only made the machine work normal again and didnt improve it.",
+      "studentReasoning": "I checked the case evidence and the accounting effect. The €10,000 repair is an expense because it only restored the machine to normal operation and did not improve it.",
       "statementEffect": {
         "profit": -10000,
         "cash": 0,
@@ -768,16 +768,16 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Owner villa deposit.",
-      "answer": "The €70,000 villa payment is owners distribution, because it was personal and not for the business.",
+      "answer": "The €70,000 villa payment is an owner's distribution because it was personal and not for the business.",
       "evidence": [
         "Bank export",
         "Contracts/CRM",
         "Supporting schedules"
       ],
       "confidence": "high",
-      "aiProposal": "The €70,000 villa payment is owners distribution, because it was personal and not for the business.",
+      "aiProposal": "The €70,000 villa payment is an owner's distribution because it was personal and not for the business.",
       "independentChallenge": "It could be called marketing or bonus, however the villa is personal and no customer meeting happened there.",
-      "studentReasoning": "I checked the case evidence and the accounting effect. The €70,000 villa payment is owners distribution, because it was personal and not for the business.",
+      "studentReasoning": "I checked the case evidence and the accounting effect. The €70,000 villa payment is an owner's distribution because it was personal and not for the business.",
       "statementEffect": {
         "profit": 70000,
         "cash": 0,
@@ -794,16 +794,16 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Owner card spending.",
-      "answer": "The other €40,000 owner card spending is also owners distribution since no business reason was shown.",
+      "answer": "The other €40,000 of owner-card spending is also an owner's distribution because no business purpose was shown.",
       "evidence": [
         "Bank export",
         "Contracts/CRM",
         "Supporting schedules"
       ],
       "confidence": "high",
-      "aiProposal": "The other €40,000 owner card spending is also owners distribution since no business reason was shown.",
-      "independentChallenge": "I looked for receipts or a business purpose and there wasnt any, so treating it as distribution is more reasonable.",
-      "studentReasoning": "I checked the case evidence and the accounting effect. The other €40,000 owner card spending is also owners distribution since no business reason was shown.",
+      "aiProposal": "The other €40,000 of owner-card spending is also an owner's distribution because no business purpose was shown.",
+      "independentChallenge": "I looked for receipts or a business purpose and found none, so treating the spending as a distribution is more reasonable.",
+      "studentReasoning": "I checked the case evidence and the accounting effect. The other €40,000 of owner-card spending is an owner's distribution because no business purpose was shown.",
       "statementEffect": {
         "profit": 40000,
         "cash": 0,
@@ -1046,16 +1046,16 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Probable legal claim.",
-      "answer": "I recorded a €25,000 legal expense and provision, because the claim is probable and this is lawyers best estimate.",
+      "answer": "I recorded a €25,000 legal expense and provision because the claim is probable and this is the lawyer's best estimate.",
       "evidence": [
         "Bank export",
         "Contracts/CRM",
         "Supporting schedules"
       ],
       "confidence": "high",
-      "aiProposal": "I recorded a €25,000 legal expense and provision, because the claim is probable and this is lawyers best estimate.",
+      "aiProposal": "I recorded a €25,000 legal expense and provision because the claim is probable and this is the lawyer's best estimate.",
       "independentChallenge": "A range alone is not enough, but counsel confirms the claim is probable and gives €25,000 as best estimate.",
-      "studentReasoning": "I checked the case evidence and the accounting effect. I recorded a €25,000 legal expense and provision, because the claim is probable and this is lawyers best estimate.",
+      "studentReasoning": "I checked the case evidence and the accounting effect. I recorded a €25,000 legal expense and provision because the claim is probable and this is the lawyer's best estimate.",
       "statementEffect": {
         "profit": -25000,
         "cash": 0,
@@ -1162,16 +1162,16 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered Freedom contract.",
-      "answer": "I recognised €200,000 Freedom revenue. Even though all cash wasnt paid, the full order was accepted.",
+      "answer": "I recognised €200,000 of Freedom revenue. Although not all cash was paid, the full order was accepted.",
       "evidence": [
         "Bank export",
         "Contracts/CRM",
         "Supporting schedules"
       ],
       "confidence": "high",
-      "aiProposal": "I recognised €200,000 Freedom revenue. Even though all cash wasnt paid, the full order was accepted.",
+      "aiProposal": "I recognised €200,000 of Freedom revenue. Although not all cash was paid, the full order was accepted.",
       "independentChallenge": "Only part of the cash was collected, but revenue is about delivery. The full order was accepted.",
-      "studentReasoning": "I checked the case evidence and the accounting effect. I recognised €200,000 Freedom revenue. Even though all cash wasnt paid, the full order was accepted.",
+      "studentReasoning": "I checked the case evidence and the accounting effect. I recognised €200,000 of Freedom revenue because the full order was accepted, although not all cash was paid.",
       "statementEffect": {
         "profit": 200000,
         "cash": 142000,
@@ -1624,7 +1624,7 @@
         "Third-party or operational evidence"
       ],
       "confidence": "medium",
-      "sourceLocator": "Supporting schedule in submission.json; underlying source document cited in the answer",
+      "sourceLocator": "submission.json: schedules.inventoryCogs, statements.profitAndLoss, statements.balanceSheet, and uncertainties[0]",
       "studentReasoning": "",
       "certificationStatus": "final"
     },
@@ -1647,13 +1647,13 @@
       "id": "D091",
       "category": "board_decision",
       "reviewTier": "material_judgment",
-      "question": "Approve corrected accounts before valuation",
-      "answer": "Use the corrected statements only as a provisional accounting model. Resolve the €9,000 inventory difference and obtain insurance evidence before final valuation or an earn-out calculation.",
+      "question": "Use the provisional accounts before valuation",
+      "answer": "Use the statements only as a provisional accounting model. Resolve the €9,000 inventory difference and obtain insurance evidence before final valuation or an earn-out calculation.",
       "evidence": [
         "Corrected statements",
         "Risk and control findings"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Use the €65,000 statements as a provisional model, then resolve the inventory and insurance uncertainties before valuation or an earn-out calculation.",
       "independentChallenge": "The model reconciles internally, but the €9,000 inventory alternative and unquantified insurance amount prevent an unqualified valuation conclusion.",
       "studentReasoning": "I selected the €112,000 inventory roll-forward because it is supported by the documented movement schedule, while retaining the €121,000 physical-count alternative. Insurance remains unquantified because no evidence was supplied.",
@@ -1665,7 +1665,7 @@
         "equity": 0
       },
       "changedFromAI": false,
-      "sourceLocator": "Corrected statements, reconciliations and resolved judgments in submission.json",
+      "sourceLocator": "submission.json: reconciliations[3], uncertainties[0], uncertainties[1], resolvedJudgments[0], and resolvedJudgments[2]",
       "certificationStatus": "final"
     },
     {
@@ -1798,7 +1798,7 @@
         "Corrected statements",
         "Risk and control findings"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Do not use the €312,000 claim. Use €65,000 only as a provisional base while the €9,000 inventory alternative and insurance evidence remain unresolved.",
       "independentChallenge": "A negotiated earn-out could use another measure, but neither €312,000 nor the provisional €65,000 should be treated as final before the open evidence is resolved.",
       "studentReasoning": "The €65,000 model reconciles on the selected €112,000 inventory basis. I would delay a final earn-out because €121,000 inventory would raise profit by €9,000 and insurance remains unquantified.",
@@ -1810,7 +1810,7 @@
         "equity": 0
       },
       "changedFromAI": false,
-      "sourceLocator": "Corrected statements, reconciliations and resolved judgments in submission.json",
+      "sourceLocator": "submission.json: boardRecommendation, uncertainties[0], uncertainties[1], decisions[D089], and decisions[D091]",
       "certificationStatus": "final"
     }
   ],
